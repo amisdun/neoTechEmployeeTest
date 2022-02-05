@@ -26,6 +26,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+```
+Create a .env file at the root of your app and set the following end variables
+MONGO_DB_URI=
+MONGO_DB_TEST_URI=
+
+```
+
 ## Installation
 
 ```bash
